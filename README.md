@@ -1,4 +1,4 @@
-# Hi, I'm Lewis Jones
+# Hi, I'm Lewis
 
 ## About Me
 A dedicated university student currently studying **Cybersecurity**, aspiring to become a **Cybersecurity Analyst** and **Incident Responder**, using [TryHackMe](https://tryhackme.com/p/lew2143) and university projects to expand my knowledge.
