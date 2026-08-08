@@ -3,7 +3,6 @@
 ## About Me
 A dedicated university student currently studying **Cyber Security**, aspiring to become a **Cybersecurity Analyst** and **Incident Responder**, using [TryHackMe](https://tryhackme.com/p/lew2143) and university projects to expand my knowledge.
 
----
 
 ### Technical Knowledge
 
